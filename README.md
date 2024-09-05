@@ -1,4 +1,4 @@
-# Projeto de Testes de API - E-commerce ServRest
+# Projeto de Testes de API - E-commerce ServeRest
 
 Este repositório contém um conjunto de testes de carga, performance, aceitação e funcionais para a API do e-commerce "ServeRest". Estes testes foram desenvolvidos durante o curso "[Postman do Básico ao Avançado com Projetos](https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/)" da Udemy.
 
