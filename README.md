@@ -2,10 +2,6 @@
 
 Este repositório contém um conjunto de testes para a API do e-commerce "ServeRest". Estes testes foram desenvolvidos durante o curso "[Postman do Básico ao Avançado com Projetos](https://www.udemy.com/course/postman-do-basico-ao-avancado-com-projetos/)" da Udemy.
 
-## Visão Geral
-
-ServeRest é uma API pública e testável usada para simulações de e-commerce, permitindo a automação e testes de diversas funcionalidades de compra, usuário e produtos. O objetivo deste projeto é validar a confiabilidade, desempenho e comportamento da API em diferentes cenários.
-
 Os testes foram implementados usando o **Postman** e **Newman**, cobrindo os seguintes aspectos:
 
 - **Testes de Carga**: Verificação da capacidade da API em lidar com um grande número de requisições simultâneas.
