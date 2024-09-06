@@ -4,7 +4,6 @@ Este repositório contém um conjunto de testes para a API do e-commerce "ServeR
 
 Os testes foram implementados usando o **Postman** e **Newman**, cobrindo os seguintes aspectos:
 
-- **Testes de Carga**: Verificação da capacidade da API em lidar com um grande número de requisições simultâneas.
 - **Testes de Performance**: Medição do tempo de resposta da API sob diferentes níveis de carga.
 - **Testes de Aceitação**: Validação de que os endpoints implementam corretamente as regras de negócios esperadas.
 - **Testes Funcionais**: Verificação do funcionamento correto dos endpoints de acordo com a documentação da API.
